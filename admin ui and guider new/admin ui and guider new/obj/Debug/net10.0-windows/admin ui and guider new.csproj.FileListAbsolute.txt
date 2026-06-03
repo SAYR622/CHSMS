@@ -1,0 +1,20 @@
+D:\Games\admin ui and guider new\admin ui and guider new\bin\Debug\net10.0-windows\admin ui and guider new.exe
+D:\Games\admin ui and guider new\admin ui and guider new\bin\Debug\net10.0-windows\admin ui and guider new.deps.json
+D:\Games\admin ui and guider new\admin ui and guider new\bin\Debug\net10.0-windows\admin ui and guider new.runtimeconfig.json
+D:\Games\admin ui and guider new\admin ui and guider new\bin\Debug\net10.0-windows\admin ui and guider new.dll
+D:\Games\admin ui and guider new\admin ui and guider new\bin\Debug\net10.0-windows\admin ui and guider new.pdb
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\App.g.cs
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new_MarkupCompile.cache
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new_MarkupCompile.lref
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.g.resources
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.AssemblyInfoInputs.cache
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.AssemblyInfo.cs
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.csproj.CoreCompileInputs.cache
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.dll
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\refint\admin ui and guider new.dll
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.pdb
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\admin ui and guider new.genruntimeconfig.cache
+D:\Games\admin ui and guider new\admin ui and guider new\obj\Debug\net10.0-windows\ref\admin ui and guider new.dll
