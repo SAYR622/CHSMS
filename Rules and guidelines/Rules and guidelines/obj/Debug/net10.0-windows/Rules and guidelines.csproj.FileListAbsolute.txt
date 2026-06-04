@@ -1,0 +1,19 @@
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\MainWindow.baml
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\App.g.cs
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines_MarkupCompile.cache
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.g.resources
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.AssemblyInfoInputs.cache
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.AssemblyInfo.cs
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.csproj.CoreCompileInputs.cache
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\bin\Debug\net10.0-windows\Rules and guidelines.exe
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\bin\Debug\net10.0-windows\Rules and guidelines.deps.json
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\bin\Debug\net10.0-windows\Rules and guidelines.runtimeconfig.json
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\bin\Debug\net10.0-windows\Rules and guidelines.dll
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\bin\Debug\net10.0-windows\Rules and guidelines.pdb
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.dll
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\refint\Rules and guidelines.dll
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.pdb
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\Rules and guidelines.genruntimeconfig.cache
+D:\sandika wpf\Rules and guidelines\Rules and guidelines\obj\Debug\net10.0-windows\ref\Rules and guidelines.dll

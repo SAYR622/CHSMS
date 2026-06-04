@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Rules and guidelines/1.0.0": {
+        "runtime": {
+          "Rules and guidelines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rules and guidelines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
