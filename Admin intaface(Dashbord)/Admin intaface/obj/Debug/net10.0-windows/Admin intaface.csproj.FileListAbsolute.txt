@@ -1,0 +1,38 @@
+D:\Games\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.exe
+D:\Games\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.deps.json
+D:\Games\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.runtimeconfig.json
+D:\Games\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.dll
+D:\Games\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.pdb
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\App.g.cs
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface_MarkupCompile.cache
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.g.resources
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.AssemblyInfoInputs.cache
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.AssemblyInfo.cs
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.csproj.CoreCompileInputs.cache
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.dll
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\refint\Admin intaface.dll
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.pdb
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.genruntimeconfig.cache
+D:\Games\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\ref\Admin intaface.dll
+D:\sandika wpf\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.exe
+D:\sandika wpf\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.deps.json
+D:\sandika wpf\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.runtimeconfig.json
+D:\sandika wpf\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.dll
+D:\sandika wpf\Admin intaface\Admin intaface\bin\Debug\net10.0-windows\Admin intaface.pdb
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\MainWindow.baml
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\App.g.cs
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface_MarkupCompile.cache
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.g.resources
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.AssemblyInfoInputs.cache
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.AssemblyInfo.cs
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.csproj.CoreCompileInputs.cache
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.dll
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\refint\Admin intaface.dll
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.pdb
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\Admin intaface.genruntimeconfig.cache
+D:\sandika wpf\Admin intaface\Admin intaface\obj\Debug\net10.0-windows\ref\Admin intaface.dll
