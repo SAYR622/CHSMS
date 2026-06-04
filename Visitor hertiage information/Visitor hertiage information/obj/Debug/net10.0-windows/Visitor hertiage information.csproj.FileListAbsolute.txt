@@ -1,0 +1,19 @@
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\App.g.cs
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information_MarkupCompile.cache
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\MainWindow.baml
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.g.resources
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.AssemblyInfoInputs.cache
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.AssemblyInfo.cs
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.csproj.CoreCompileInputs.cache
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\bin\Debug\net10.0-windows\Visitor hertiage information.exe
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\bin\Debug\net10.0-windows\Visitor hertiage information.deps.json
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\bin\Debug\net10.0-windows\Visitor hertiage information.runtimeconfig.json
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\bin\Debug\net10.0-windows\Visitor hertiage information.dll
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\bin\Debug\net10.0-windows\Visitor hertiage information.pdb
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.dll
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\refint\Visitor hertiage information.dll
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.pdb
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\Visitor hertiage information.genruntimeconfig.cache
+D:\sandika wpf\Visitor hertiage information\Visitor hertiage information\obj\Debug\net10.0-windows\ref\Visitor hertiage information.dll
