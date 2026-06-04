@@ -1,0 +1,19 @@
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\MainWindow.baml
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\App.g.cs
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile_MarkupCompile.cache
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.g.resources
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.AssemblyInfoInputs.cache
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.AssemblyInfo.cs
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.csproj.CoreCompileInputs.cache
+D:\sandika wpf\visitor Profile\visitor Profile\bin\Debug\net10.0-windows\visitor Profile.exe
+D:\sandika wpf\visitor Profile\visitor Profile\bin\Debug\net10.0-windows\visitor Profile.deps.json
+D:\sandika wpf\visitor Profile\visitor Profile\bin\Debug\net10.0-windows\visitor Profile.runtimeconfig.json
+D:\sandika wpf\visitor Profile\visitor Profile\bin\Debug\net10.0-windows\visitor Profile.dll
+D:\sandika wpf\visitor Profile\visitor Profile\bin\Debug\net10.0-windows\visitor Profile.pdb
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.dll
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\refint\visitor Profile.dll
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.pdb
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\visitor Profile.genruntimeconfig.cache
+D:\sandika wpf\visitor Profile\visitor Profile\obj\Debug\net10.0-windows\ref\visitor Profile.dll
