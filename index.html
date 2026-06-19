@@ -129,7 +129,7 @@
 			const SUPABASE_URL = "https://hwhqwjivazdozojhkeli.supabase.co";
 			const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh3aHF3aml2YXpkb3pvamhrZWxpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE3NTgwNjcsImV4cCI6MjA5NzMzNDA2N30.5qgsM9KZ2Ff7EiYWab9yCXfhmibRZOwh4UXM0UiU92Q";
 			
-			// ⚠️ REPLACE THIS with your actual deployed Edge Function Name (e.g., 'send-email')
+			// Set exactly to your deployed edge function name
 			const EDGE_FUNCTION_NAME = "send-email"; 
 
 			// Initialize Supabase client
@@ -153,7 +153,7 @@
 					console.error("Database Error:", dbError);
 					messageDiv.style.color = "#ff8080";
 					messageDiv.innerText = "Something went wrong saving your email. Please try again.";
-					return; // Stop execution if DB save fails
+					return;
 				}
 
 				// STEP B: Trigger the Edge Function to send out the Gmail message
@@ -169,20 +169,25 @@
 						body: JSON.stringify({ visitorEmail: emailInput })
 					});
 
-					const result = await response.json();
+					// Handle text or empty responses gracefully before parsing JSON
+					const textResponse = await response.text();
+					let result = {};
+					if (textResponse) {
+						result = JSON.parse(textResponse);
+					}
 
 					if (!response.ok) {
 						throw new Error(result.error || "Failed to trigger email function");
 					}
 
-					// Everything succeeded!
+					// Success path!
 					messageDiv.style.color = "#80ff80";
 					messageDiv.innerText = "Success! You will receive more details through an email.";
 					document.getElementById('emailForm').reset();
 
 				} catch (emailError) {
 					console.error("Edge Function Error:", emailError);
-					messageDiv.style.color = "#ffca28"; // Warning yellow shade
+					messageDiv.style.color = "#ffca28"; 
 					messageDiv.innerText = "Email saved, but notification failed to send.";
 				}
 			});
