@@ -18,6 +18,10 @@
 2026.06.20 - `Ongoing-Admin-UI-Reimagined`*(merged)* by `SAYR622` using `Ongoing-Admin-UI-(Part-2)` by `Hemanga73`<br>
 2026.06.20 - `Admin-UI-sample-(part-3)` by `Hemanga73`<br>
 2026.06.21 - `Admin-UI-sample-implementation`*(merged)* by `SAYR622` using `Admin-UI-sample-(part-3)` by `Hemanga73`<br>
+2026.06.26 - `VISITOR-BACK-END-,FONT-END` by `sandikahiman`<br>
+2026.06.27 - `C_Account(June-27)` by `Hemanga73`<br>
+2026.06.27 - `c_acc-&-visitors-page-implementations`*(merged)* by `SAYR622` using `VISITOR-BACK-END-,FONT-END` & `C_Account(June-27)` by `sandikahiman` & `Hemanga73`<br>
+
 
 ## Front-end Sketches
 
